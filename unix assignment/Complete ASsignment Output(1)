@@ -1,0 +1,154 @@
+
+1) Assignment 1
+
+guest-iiqb4o@user-HP-Laptop-15-bs0xx:~/Unix Assignment $ sh assignment1.sh
+guest-iiqb4o /tmp/guest-iiqb4o xterm-256color
+
+
+2) Assignment 2
+
+guest-iiqb4o@user-HP-Laptop-15-bs0xx:~$ sh assignment2.sh
+USERNAME =prajakta
+PASSWORD =Pratayad
+Enter start of script date:hello i am prajakta.
+START OF SCRIPT = hello i am prajakta.
+Enter end of script date :Bye Bye!
+END OF SCRIPT = Bye Bye!
+
+3) Assignment 3
+
+guest-iiqb4o@user-HP-Laptop-15-bs0xx:~/Unix Assignment $ sh a3.sh
+Name=Prajakta
+Surname=Tayade
+
+4) Assignment 4
+
+
+
+
+5) Assignment 5
+
+guest-iiqb4o@user-HP-Laptop-15-bs0xx:~/Unix Assignment $ sh a5.sh
+Addition of two number is = 7
+Subtraction of two number is = 4
+
+6) Assignment 6
+
+guest-iiqb4o@user-HP-Laptop-15-bs0xx:~/Unix Assignment $ sh a6.sh
+Addition of two number is = 7
+Addition of two number and multiplication with third number is = 19
+Addition of two number and multiplication with third number by grouping is
+35
+
+7)Assignment 7
+
+guest-iiqb4o@user-HP-Laptop-15-bs0xx:~/Unix Assignment $ sh a7.sh
+1. TODAYSDATE
+2. USERFILES 
+Enter your choice 
+1   
+Sun Aug 8 16:00:46 IST 2021
+  OR
+Enter your choice 
+2
+a3.sh  a4.sh  a5.sh  a6.sh  a7.sh  a8.sh  a9.sh  assignment1.sh  assignment2.sh  Complete ASsignment Output
+
+8)Assignment 8
+
+guest-iiqb4o@user-HP-Laptop-15-bs0xx:~/Unix Assignment $ sh a8.sh
+Enter your details firstname , lastname , and age :Prajakta
+Tayade
+22
+Hello ! Your Name is Prajakta Tayade and your current age is 22.
+ After 10 years your age will be 32. Bye!! 
+
+9) Assignment 9
+ibm oracle sql http linux
+
+10) Assignment 10
+
+guest-iiqb4o@user-HP-Laptop-15-bs0xx:~/Unix Assignment $ sh a10.sh Prajakta Pra1122@
+USERNAME=Prajakta PASSWORD=Pra1122@
+
+
+11)Assignment 11
+
+guest-iiqb4o@user-HP-Laptop-15-bs0xx:~/Unix Assignment $ sh a11.sh
+Enter a number between 1 to 5
+2
+guest-iiqb4o@user-HP-Laptop-15-bs0xx:~/Unix Assignment $ sh a11.sh
+Enter a number between 1 to 5
+3
+Success.
+
+
+12)Assignment 12
+
+guest-iiqb4o@user-HP-Laptop-15-bs0xx:~/Unix Assignment $ sh a12.sh
+Enter a number between 1 and 3
+1
+Appropriate.
+guest-iiqb4o@user-HP-Laptop-15-bs0xx:~/Unix Assignment $ sh a12.sh
+Enter a number between 1 and 3
+1
+Appropriate.
+guest-iiqb4o@user-HP-Laptop-15-bs0xx:~/Unix Assignment $ sh a12.sh
+Enter a number between 1 and 3
+2
+Appropriate.
+guest-iiqb4o@user-HP-Laptop-15-bs0xx:~/Unix Assignment $ sh a12.sh
+Enter a number between 1 and 3
+3
+Appropriate.
+guest-iiqb4o@user-HP-Laptop-15-bs0xx:~/Unix Assignment $ sh a12.sh
+Enter a number between 1 and 3
+4
+ you failed to follow intsructions.
+
+
+
+
+
+13)Assignment 13
+
+14)Assignment 14
+
+guest-iiqb4o@user-HP-Laptop-15-bs0xx:~/Unix Assignment $ sh a14.sh
+Enter Laptop
+HP
+Rent of HP is 1500 rs
+
+15)Assignment 15
+
+guest-6r5pvt@user-HP-Laptop-15-bs0xx:~$ sh a15.sh
+Enter the number for how many times the message should be displayed .
+5
+Hello , have a great day
+Hello , have a great day
+Hello , have a great day
+Hello , have a great day
+Hello , have a great day
+
+16)Assignment 16
+
+guest-6r5pvt@user-HP-Laptop-15-bs0xx:~$ cat a16.sh
+batman 
+superman
+spiderman
+antman
+ironman
+
+17)Assignment 17
+18)Assignment 18
+19)Assignment 19
+20)Assignment 20
+21)Assignment 21
+22)Assignment 22
+23)Assignment 23
+24)Assignment 24
+25)Assignment 25
+26)Assignment 26
+27)Assignment 27
+
+
+
